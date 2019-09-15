@@ -3,13 +3,24 @@ body{
 }
 h1
 {
+  text-align: justify;
   font-family: 'Saira Stencil One', cursive;
 }
 p{
+  text-align: justify;
   font-family: 'Livvic', sans-serif;
 }
 img{
-
+  padding: 0;
+  border-radius: 50%;
   width:200px;
   height:200px;
+}
+h2{
+  
+  font-family: 'Noto Serif', serif;
+}
+table,th,td{
+  padding: 5px;
+  border:2px solid black;
 }
